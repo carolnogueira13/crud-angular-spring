@@ -19,6 +19,8 @@ You need to have Java and Maven installed and configured locally.
 
 Open the `crud-spring` project in your favorite IDE as a Maven project and execute it as Spring Boot application.
 
+`mvn spring-boot:run`
+
 ### Executing the front-end
 
 You need to have Node.js / NPM installed locally.
